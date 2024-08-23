@@ -1,7 +1,7 @@
 
 ## Hi, I am `sudo_free` (or `iamhyc`)
 
-> [!NOTE] LOOKING FOR JOB OPPORTUNITIES
+> !!! LOOKING FOR JOB OPPORTUNITIES !!!
 > My CV link is on the left column if you are interested.
 
 I am currently working on [Overleaf Workshop](https://github.com/iamhyc/Overleaf-Workshop/), which allows you to open Overleaf projects in VS Code with full collaboration support. 
