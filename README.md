@@ -30,4 +30,4 @@ I am currently a freelance researcher and developer, who is interested in the fo
 
 **Researches**: 1) distributed-native network, 2) pre-trained transformer, 3) text-instructed 3D generation ([LRM](https://arxiv.org/abs/2311.04400) is interesting).
 
-**Development**: 1) RetroArch for OpenHarmony, 2) [Overleaf Workshop](https://github.com/iamhyc/Overleaf-Workshop), 3) [VDM](https://github.com/VDM-Maintainer-Group).
+**Development**: 1) [Retrohos](https://github.com/Retrohos/Retrohos), 2) [Overleaf Workshop](https://github.com/iamhyc/Overleaf-Workshop), 3) [VDM](https://github.com/VDM-Maintainer-Group).
